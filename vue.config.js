@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/REST-COUNTRIES-API/'
+    publicPath: '/REST COUNTRIES API/'
   }
   
